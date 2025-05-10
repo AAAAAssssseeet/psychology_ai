@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psychological AI Assistant</title>
+    <style>
+        :root {
+            --primary-color: #003366;
+            --secondary-color: #0066cc;
+            --accent-color: #ff9900;
+            --bg-color: #e6f2ff;
+            --card-bg: white;
+            --text-color: #333;
+            --tag-text: #fff;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--bg-color);
+            color: var(--text-color);
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px 0;
+            border-bottom: 2px solid rgba(0, 51, 102, 0.1);
+            background: rgba(0, 51, 102, 0.05);
+        }
+
+        h1 {
+            color: var(--primary-color);
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        .model-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 25px;
+            margin-top: 40px;
+        }
+
+        .model-card {
+            background: var(--card-bg);
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+            position: relative;
+        }
+
+        .model-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+        }
+
+        .model-tag {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.75em;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .text-tag { background: var(--secondary-color); color: var(--tag-text); }
+        .image-tag { background: var(--accent-color); color: var(--tag-text); }
+        .data-tag { background: #4CAF50; color: var(--tag-text); }
+
+        .model-link {
+            display: block;
+            padding: 15px 20px;
+            color: var(--secondary-color);
+            text-decoration: none;
+            font-weight: 600;
+            border-radius: 8px;
+            transition: background 0.3s;
+            min-height: 48px;
+            display: flex;
+            align-items: center;
+        }
+
+        .model-link:hover {
+            background: rgba(0, 102, 204, 0.1);
+        }
+
+        .model-description {
+            margin-top: 15px;
+            font-size: 0.9em;
+            color: #555;
+        }
+
+        .back-button {
+            display: inline-block;
+            margin: 20px;
+            padding: 10px 20px;
+            background: var(--secondary-color);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: background 0.3s;
+        }
+
+        .back-button:hover {
+            background: #005bb5;
+        }
+
+        footer {
+            text-align: center;
+            padding: 25px 20px;
+            font-size: 0.9em;
+            color: #555;
+            background: rgba(0, 51, 102, 0.05);
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+
+        @media (max-width: 768px) {
+            .model-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Выберите модель для психологического анализа</h1>
+        </header>
+
+        <div class="model-grid">
+            {% for name, module in models.items() %}
+                <div class="model-card">
+                    <div class="model-tag
+                        {% if module.type == 'text' %}text-tag
+                        {% elif module.type == 'image' %}image-tag
+                        {% elif module.type == 'data' %}data-tag
+                        {% endif %}">
+                        {{ module.type }}
+                    </div>
+                    <a href="{{ url_for('predict', model_name=name) }}" class="model-link">{{ name }}</a>
+                    <div class="model-description">
+                        {% if name == "Linear Regression" %}Линейная регрессия для числовых предсказаний{% endif %}
+                        {% if name == "Logistic Regression" %}Логистическая регрессия для классификации{% endif %}
+                        {% if name == "Decision Tree" %}Дерево решений для анализа данных{% endif %}
+                        {% if name == "Random Forest" %}Ансамблевая модель на основе деревьев{% endif %}
+                        {% if name == "Naive Bayes" %}Байесовский классификатор{% endif %}
+                        {% if name == "K-Nearest Neighbors" %}Метод ближайших соседей{% endif %}
+                        {% if name == "Support Vector Machine (SVM)" %}Метод опорных векторов{% endif %}
+                        {% if name == "Gradient Boosting" %}Градиентный бустинг{% endif %}
+                        {% if name == "KMeans Clustering" %}Алгоритм кластеризации{% endif %}
+                        {% if name == "Principal Component Analysis (PCA)" %}Снижение размерности{% endif %}
+                        {% if name == "Apriori Association" %}Поиск ассоциаций между эмоциями{% endif %}
+                        {% if name == "Image Emotion Recognition" %}Распознавание эмоций на лицах{% endif %}
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <footer>
+        &copy; 2025 Psychological AI Assistant |
+        ⚠️ This tool is not a substitute for professional help. If you or someone close to you is in danger, contact a psychologist or emergency services.
+    </footer>
+</body>
+</html>

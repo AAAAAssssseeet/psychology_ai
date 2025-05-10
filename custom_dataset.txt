@@ -1,0 +1,657 @@
+text,class
+"I feel hopeless and want to die.",suicidal
+"I can't see any way out of this pain.",suicidal
+"My life has no meaning anymore.",suicidal
+"I want to end my life.",suicidal
+"I’m struggling, but I want to get help.",non-suicidal
+"Life is hard, but I’m trying to stay strong.",non-suicidal
+"I feel overwhelmed but I’ll keep going.",non-suicidal
+"Please don’t ignore this post — I need support.",suicidal
+"I’m feeling really down and trapped.",suicidal
+"I made a plan to hurt myself.",suicidal
+"I’m just having a bad day but I’ll be okay.",non-suicidal
+"Sometimes I think about death, but I’m not serious.",non-suicidal
+"I want to talk to someone about my feelings.",non-suicidal
+"I have hope things will get better.",non-suicidal
+"I can’t take this anymore — I’m done.",suicidal
+"I’ve been thinking about ending it all.",suicidal
+"I’m scared and need help.",suicidal
+"I’m struggling but open to therapy.",non-suicidal
+"I deserve to live and get help.",non-suicidal
+"I’m tired of fighting — I want it to stop.",suicidal
+"I’ve lost all motivation to keep going.",suicidal
+"Nothing makes sense anymore.",suicidal
+"I’ve stopped caring about everything.",suicidal
+"I want to disappear forever.",suicidal
+"I’m drowning in my own thoughts.",suicidal
+"I don’t belong anywhere.",suicidal
+"I’ve given up on life.",suicidal
+"My mind won’t stop screaming at me.",suicidal
+"I’m a burden to everyone.",suicidal
+"I just want the pain to end.",suicidal
+"I finally found a hobby I enjoy.",non-suicidal
+"I’m learning to accept myself slowly.",non-suicidal
+"Today was a good day!",non-suicidal
+"I made new friends this week.",non-suicidal
+"Started therapy and it helps.",non-suicidal
+"Found a job I love!",non-suicidal
+"I’m proud of how far I’ve come.",non-suicidal
+"Got my first promotion!",non-suicidal
+"Adopted a cat yesterday!",non-suicidal
+"Going on a vacation next month.",non-suicidal
+"I learned to cook something new.",non-suicidal
+"Reading changed my perspective.",non-suicidal
+"Started exercising regularly.",non-suicidal
+"Got my college acceptance letter!",non-suicidal
+"Made peace with my past.",non-suicidal
+"Volunteering feels rewarding.",non-suicidal
+"Found a support group online.",non-suicidal
+"Listening to music helps me cope.",non-suicidal
+"Got a compliment that made my day.",non-suicidal
+"Trying yoga for stress relief.",non-suicidal
+"Started journaling to process emotions.",non-suicidal
+"I’m learning to say 'no' to toxic people.",non-suicidal
+"Taking small steps forward every day.",non-suicidal
+"Found a mentor who inspires me.",non-suicidal
+"Discovered a new passion for art.",non-suicidal
+"Learned to set healthy boundaries.",non-suicidal
+"Helping others makes me feel alive.",non-suicidal
+"Found comfort in nature walks.",non-suicidal
+"Started meditating daily.",non-suicidal
+"Made progress in therapy sessions.",non-suicidal
+"I’m grateful for today.",non-suicidal
+"Little joys make life worth living.",non-suicidal
+"Found strength in vulnerability.",non-suicidal
+"Learning to celebrate small wins.",non-suicidal
+"Connected with old friends.",non-suicidal
+"Started reading self-help books.",non-suicidal
+"Rediscovering childhood hobbies.",non-suicidal
+"Found peace in routine.",non-suicidal
+"Started cooking healthy meals.",non-suicidal
+"Learning Spanish feels empowering.",non-suicidal
+"Practicing gratitude daily.",non-suicidal
+"Exploring new music genres.",non-suicidal
+"Found beauty in everyday moments.",non-suicidal
+"Started a savings plan.",non-suicidal
+"Rediscovered love for photography.",non-suicidal
+"Found joy in gardening.",non-suicidal
+"Started learning guitar.",non-suicidal
+"Found comfort in poetry.",non-suicidal
+"Learned to ask for help when needed.",non-suicidal
+"Found strength in personal growth.",non-suicidal
+"Started morning meditation.",non-suicidal
+"Found community in online groups.",non-suicidal
+"Learning to forgive myself.",non-suicidal
+"Rediscovered love for hiking.",non-suicidal
+"Started creative writing.",non-suicidal
+"Found peace through volunteering.",non-suicidal
+"Learned to value my time.",non-suicidal
+"Started a daily gratitude journal.",non-suicidal
+"Found joy in helping others.",non-suicidal
+"Learned to prioritize self-care.",non-suicidal
+"Found strength in vulnerability.",non-suicidal
+"Started organizing my space.",non-suicidal
+"Learned new coping strategies.",non-suicidal
+"Found comfort in podcasts.",non-suicidal
+"Started learning coding basics.",non-suicidal
+"Learned to embrace imperfections.",non-suicidal
+"Found healing through dance.",non-suicidal
+"Started mindfulness practice.",non-suicidal
+"Learned to set realistic goals.",non-suicidal
+"Found peace in daily routines.",non-suicidal
+"Started exploring local parks.",non-suicidal
+"Learned to appreciate small victories.",non-suicidal
+"Found joy in random acts of kindness.",non-suicidal
+"Started learning new recipes.",non-suicidal
+"Learned to say 'yes' to good opportunities.",non-suicidal
+"Found comfort in petting my dog.",non-suicidal
+"Started learning photography basics.",non-suicidal
+"Learned to celebrate others' successes.",non-suicidal
+"Found motivation through podcasts.",non-suicidal
+"Started practicing affirmations.",non-suicidal
+"Learned to recognize my strengths.",non-suicidal
+"Found peace through creative writing.",non-suicidal
+"Started learning piano.",non-suicidal
+"Learned to enjoy solitude.",non-suicidal
+"Found healing in nature walks.",non-suicidal
+"Started learning to knit.",non-suicidal
+"Learned to appreciate art again.",non-suicidal
+"Found joy in organizing my room.",non-suicidal
+"Started learning Spanish.",non-suicidal
+"Learned to value friendships.",non-suicidal
+"Found peace in quiet evenings.",non-suicidal
+"Started learning to paint.",non-suicidal
+"Learned to enjoy simple pleasures.",non-suicidal
+"Found healing through journaling.",non-suicidal
+"Started learning to cook healthy.",non-suicidal
+"Learned to set personal boundaries.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to garden.",non-suicidal
+"Learned to appreciate my body.",non-suicidal
+"Found peace through yoga.",non-suicidal
+"Started learning to write poetry.",non-suicidal
+"Learned to celebrate growth.",non-suicidal
+"Found healing through dance.",non-suicidal
+"Started learning to play chess.",non-suicidal
+"Learned to enjoy quiet moments.",non-suicidal
+"Found joy in community events.",non-suicidal
+"Started learning to swim.",non-suicidal
+"Learned to appreciate progress.",non-suicidal
+"Found peace in morning coffee.",non-suicidal
+"Started learning to draw.",non-suicidal
+"Learned to enjoy learning again.",non-suicidal
+"Found healing through gardening.",non-suicidal
+"Started learning to cook Italian.",non-suicidal
+"Learned to value my mental health.",non-suicidal
+"Found joy in weekend walks.",non-suicidal
+"Started learning to write stories.",non-suicidal
+"Learned to enjoy personal growth.",non-suicidal
+"Found peace through reading.",non-suicidal
+"Started learning to play piano.",non-suicidal
+"Learned to appreciate my journey.",non-suicidal
+"Found healing in creative outlets.",non-suicidal
+"Started learning to bake bread.",non-suicidal
+"Learned to celebrate small steps.",non-suicidal
+"Found joy in helping neighbors.",non-suicidal
+"Started learning to paint landscapes.",non-suicidal
+"Learned to enjoy learning piano.",non-suicidal
+"Found peace through morning runs.",non-suicidal
+"Started learning to cook Asian food.",non-suicidal
+"Learned to value my time wisely.",non-suicidal
+"Found healing in creative writing.",non-suicidal
+"Started learning to grow vegetables.",non-suicidal
+"Learned to appreciate growth moments.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to play guitar.",non-suicidal
+"Learned to enjoy personal development.",non-suicidal
+"Found peace through nature hikes.",non-suicidal
+"Started learning to cook desserts.",non-suicidal
+"Learned to value my emotional needs.",non-suicidal
+"Found healing in creative projects.",non-suicidal
+"Started learning to paint portraits.",non-suicidal
+"Learned to enjoy learning languages.",non-suicidal
+"Found peace in quiet mornings.",non-suicidal
+"Started learning to sew clothes.",non-suicidal
+"Learned to appreciate small achievements.",non-suicidal
+"Found joy in helping friends.",non-suicidal
+"Started learning to play chess.",non-suicidal
+"Learned to enjoy self-improvement.",non-suicidal
+"Found peace through evening walks.",non-suicidal
+"Started learning to grow herbs.",non-suicidal
+"Learned to value personal growth.",non-suicidal
+"Found healing in creative expression.",non-suicidal
+"Started learning to cook vegan.",non-suicidal
+"Learned to appreciate progress, not perfection.",non-suicidal
+"Found joy in helping community.",non-suicidal
+"Started learning to paint abstract.",non-suicidal
+"Learned to enjoy learning piano.",non-suicidal
+"Found peace through morning tea.",non-suicidal
+"Started learning to knit scarves.",non-suicidal
+"Learned to celebrate small victories.",non-suicidal
+"Found healing in creative outlets.",non-suicidal
+"Started learning to cook Indian.",non-suicidal
+"Learned to value my mental health.",non-suicidal
+"Found joy in helping neighbors.",non-suicidal
+"Started learning to write poems.",non-suicidal
+"Learned to enjoy personal development.",non-suicidal
+"Found peace through evening strolls.",non-suicidal
+"Started learning to play drums.",non-suicidal
+"Learned to appreciate growth moments.",non-suicidal
+"Found healing in creative hobbies.",non-suicidal
+"Started learning to grow tomatoes.",non-suicidal
+"Learned to value self-care time.",non-suicidal
+"Found joy in helping others.",non-suicidal
+"Started learning to paint flowers.",non-suicidal
+"Learned to enjoy learning guitar.",non-suicidal
+"Found peace through morning runs.",non-suicidal
+"Started learning to cook Italian.",non-suicidal
+"Learned to appreciate growth journeys.",non-suicidal
+"Found healing in creative writing.",non-suicidal
+"Started learning to grow basil.",non-suicidal
+"Learned to value emotional health.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to play piano.",non-suicidal
+"Learned to enjoy personal growth.",non-suicidal
+"Found peace through nature trails.",non-suicidal
+"Started learning to cook Thai.",non-suicidal
+"Learned to appreciate progress.",non-suicidal
+"Found healing in creative expression.",non-suicidal
+"Started learning to paint abstract.",non-suicidal
+"Learned to enjoy learning languages.",non-suicidal
+"Found peace in quiet evenings.",non-suicidal
+"Started learning to knit mittens.",non-suicidal
+"Learned to value self-improvement.",non-suicidal
+"Found joy in helping friends.",non-suicidal
+"Started learning to write stories.",non-suicidal
+"Learned to enjoy personal development.",non-suicidal
+"Found peace through morning coffee.",non-suicidal
+"Started learning to play violin.",non-suicidal
+"Learned to appreciate small steps.",non-suicidal
+"Found healing in creative projects.",non-suicidal
+"Started learning to grow vegetables.",non-suicidal
+"Learned to value emotional well-being.",non-suicidal
+"Found joy in helping neighbors.",non-suicidal
+"Started learning to paint still life.",non-suicidal
+"Learned to enjoy learning piano.",non-suicidal
+"Found peace through evening walks.",non-suicidal
+"Started learning to cook Mexican.",non-suicidal
+"Learned to appreciate growth moments.",non-suicidal
+"Found healing in creative writing.",non-suicidal
+"Started learning to grow herbs.",non-suicidal
+"Learned to value personal wellness.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to write poetry.",non-suicidal
+"Learned to enjoy self-development.",non-suicidal
+"Found peace through morning meditation.",non-suicidal
+"Started learning to play drums.",non-suicidal
+"Learned to appreciate growth journeys.",non-suicidal
+"Found healing in creative hobbies.",non-suicidal
+"Started learning to grow tomatoes.",non-suicidal
+"Learned to value mental wellness.",non-suicidal
+"Found joy in helping community.",non-suicidal
+"Started learning to paint landscapes.",non-suicidal
+"Learned to enjoy personal growth.",non-suicidal
+"Found peace through evening strolls.",non-suicidal
+"Started learning to cook Korean.",non-suicidal
+"Learned to appreciate progress.",non-suicidal
+"Found healing in creative expression.",non-suicidal
+"Started learning to grow basil.",non-suicidal
+"Learned to value emotional health.",non-suicidal
+"Found joy in helping others.",non-suicidal
+"Started learning to play piano.",non-suicidal
+"Learned to enjoy personal development.",non-suicidal
+"Found peace through nature hikes.",non-suicidal
+"Started learning to cook vegetarian.",non-suicidal
+"Learned to appreciate growth moments.",non-suicidal
+"Found healing in creative projects.",non-suicidal
+"Started learning to grow flowers.",non-suicidal
+"Learned to value self-care rituals.",non-suicidal
+"Found joy in helping friends.",non-suicidal
+"Started learning to paint abstract.",non-suicidal
+"Learned to enjoy learning guitar.",non-suicidal
+"Found peace through morning tea.",non-suicidal
+"Started learning to cook Mediterranean.",non-suicidal
+"Learned to appreciate growth journeys.",non-suicidal
+"Found healing in creative hobbies.",non-suicidal
+"Started learning to grow vegetables.",non-suicidal
+"Learned to value emotional wellness.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to write poems.",non-suicidal
+"Learned to enjoy personal growth.",non-suicidal
+"Found peace through evening walks.",non-suicidal
+"Started learning to play drums.",non-suicidal
+"Learned to appreciate small achievements.",non-suicidal
+"Found healing in creative expression.",non-suicidal
+"Started learning to grow herbs.",non-suicidal
+"Learned to value mental wellness.",non-suicidal
+"Found joy in helping neighbors.",non-suicidal
+"Started learning to paint portraits.",non-suicidal
+"Learned to enjoy self-improvement.",non-suicidal
+"Found peace through morning meditation.",non-suicidal
+"Started learning to cook healthy.",non-suicidal
+"Learned to appreciate growth moments.",non-suicidal
+"Found healing in creative writing.",non-suicidal
+"Started learning to grow tomatoes.",non-suicidal
+"Learned to value emotional health.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to play piano.",non-suicidal
+"Learned to enjoy personal development.",non-suicidal
+"Found peace through nature trails.",non-suicidal
+"Started learning to cook Italian.",non-suicidal
+"Learned to appreciate progress.",non-suicidal
+"Found healing in creative projects.",non-suicidal
+"Started learning to grow basil.",non-suicidal
+"Learned to value personal wellness.",non-suicidal
+"Found joy in helping community.",non-suicidal
+"Started learning to paint landscapes.",non-suicidal
+"Learned to enjoy learning guitar.",non-suicidal
+"Found peace through evening strolls.",non-suicidal
+"Started learning to cook Japanese.",non-suicidal
+"Learned to appreciate growth journeys.",non-suicidal
+"Found healing in creative expression.",non-suicidal
+"Started learning to grow vegetables.",non-suicidal
+"Learned to value emotional well-being.",non-suicidal
+"Found joy in helping friends.",non-suicidal
+"Started learning to write stories.",non-suicidal
+"Learned to enjoy personal growth.",non-suicidal
+"Found peace through morning coffee.",non-suicidal
+"Started learning to play violin.",non-suicidal
+"Learned to appreciate small steps.",non-suicidal
+"Found healing in creative hobbies.",non-suicidal
+"Started learning to cook Vietnamese.",non-suicidal
+"Learned to value self-improvement.",non-suicidal
+"Found joy in helping neighbors.",non-suicidal
+"Started learning to paint abstract.",non-suicidal
+"Learned to enjoy learning languages.",non-suicidal
+"Found peace through evening walks.",non-suicidal
+"Started learning to cook Indian.",non-suicidal
+"Learned to appreciate growth moments.",non-suicidal
+"Found healing in creative writing.",non-suicidal
+"Started learning to grow flowers.",non-suicidal
+"Learned to value mental wellness.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to play piano.",non-suicidal
+"Learned to enjoy personal development.",non-suicidal
+"Found peace through nature hikes.",non-suicidal
+"Started learning to cook Thai.",non-suicidal
+"Learned to appreciate growth journeys.",non-suicidal
+"Found healing in creative expression.",non-suicidal
+"Started learning to grow tomatoes.",non-suicidal
+"Learned to value emotional health.",non-suicidal
+"Found joy in helping friends.",non-suicidal
+"Started learning to write poetry.",non-suicidal
+"Learned to enjoy self-development.",non-suicidal
+"Found peace through morning tea.",non-suicidal
+"Started learning to play drums.",non-suicidal
+"Learned to appreciate small achievements.",non-suicidal
+"Found healing in creative projects.",non-suicidal
+"Started learning to grow herbs.",non-suicidal
+"Learned to value mental wellness.",non-suicidal
+"Found joy in helping community.",non-suicidal
+"Started learning to paint portraits.",non-suicidal
+"Learned to enjoy learning guitar.",non-suicidal
+"Found peace through evening strolls.",non-suicidal
+"Started learning to cook Mexican.",non-suicidal
+"Learned to appreciate progress.",non-suicidal
+"Found healing in creative hobbies.",non-suicidal
+"Started learning to grow vegetables.",non-suicidal
+"Learned to value emotional well-being.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to write stories.",non-suicidal
+"Learned to enjoy personal growth.",non-suicidal
+"Found peace through morning meditation.",non-suicidal
+"Started learning to play violin.",non-suicidal
+"Learned to appreciate growth moments.",non-suicidal
+"Found healing in creative expression.",non-suicidal
+"Started learning to cook Korean.",non-suicidal
+"Learned to value self-care rituals.",non-suicidal
+"Found joy in helping neighbors.",non-suicidal
+"Started learning to paint abstract.",non-suicidal
+"Learned to enjoy learning piano.",non-suicidal
+"Found peace through evening walks.",non-suicidal
+"Started learning to cook Japanese.",non-suicidal
+"Learned to appreciate growth journeys.",non-suicidal
+"Found healing in creative projects.",non-suicidal
+"Started learning to grow basil.",non-suicidal
+"Learned to value emotional health.",non-suicidal
+"Found joy in helping friends.",non-suicidal
+"Started learning to write poetry.",non-suicidal
+"Learned to enjoy personal development.",non-suicidal
+"Found peace through nature trails.",non-suicidal
+"Started learning to play drums.",non-suicidal
+"Learned to appreciate small steps.",non-suicidal
+"Found healing in creative hobbies.",non-suicidal
+"Started learning to cook Italian.",non-suicidal
+"Learned to value self-improvement.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to paint landscapes.",non-suicidal
+"Learned to enjoy learning guitar.",non-suicidal
+"Found peace through evening strolls.",non-suicidal
+"Started learning to cook Vietnamese.",non-suicidal
+"Learned to appreciate progress.",non-suicidal
+"Found healing in creative writing.",non-suicidal
+"Started learning to grow flowers.",non-suicidal
+"Learned to value mental wellness.",non-suicidal
+"Found joy in helping community.",non-suicidal
+"Started learning to play piano.",non-suicidal
+"Learned to enjoy personal growth.",non-suicidal
+"Found peace through morning coffee.",non-suicidal
+"Started learning to cook Korean.",non-suicidal
+"Learned to appreciate growth moments.",non-suicidal
+"Found healing in creative expression.",non-suicidal
+"Started learning to grow tomatoes.",non-suicidal
+"Learned to value emotional health.",non-suicidal
+"Found joy in helping friends.",non-suicidal
+"Started learning to write poetry.",non-suicidal
+"Learned to enjoy self-development.",non-suicidal
+"Found peace through nature hikes.",non-suicidal
+"Started learning to play drums.",non-suicidal
+"Learned to appreciate small achievements.",non-suicidal
+"Found healing in creative projects.",non-suicidal
+"Started learning to grow herbs.",non-suicidal
+"Learned to value mental wellness.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to paint abstract.",non-suicidal
+"Learned to enjoy learning piano.",non-suicidal
+"Found peace through evening walks.",non-suicidal
+"Started learning to cook Mediterranean.",non-suicidal
+"Learned to appreciate growth journeys.",non-suicidal
+"Found healing in creative hobbies.",non-suicidal
+"Started learning to grow vegetables.",non-suicidal
+"Learned to value emotional well-being.",non-suicidal
+"Found joy in helping community.",non-suicidal
+"Started learning to write stories.",non-suicidal
+"Learned to enjoy personal growth.",non-suicidal
+"Found peace through morning meditation.",non-suicidal
+"Started learning to play violin.",non-suicidal
+"Learned to appreciate small steps.",non-suicidal
+"Found healing in creative expression.",non-suicidal
+"Started learning to cook Indian.",non-suicidal
+"Learned to value self-care rituals.",non-suicidal
+"Found joy in helping neighbors.",non-suicidal
+"Started learning to paint portraits.",non-suicidal
+"Learned to enjoy learning guitar.",non-suicidal
+"Found peace through evening strolls.",non-suicidal
+"Started learning to cook Mexican.",non-suicidal
+"Learned to appreciate progress.",non-suicidal
+"Found healing in creative projects.",non-suicidal
+"Started learning to grow basil.",non-suicidal
+"Learned to value emotional health.",non-suicidal
+"Found joy in helping friends.",non-suicidal
+"Started learning to write poems.",non-suicidal
+"Learned to enjoy personal development.",non-suicidal
+"Found peace through nature trails.",non-suicidal
+"Started learning to play drums.",non-suicidal
+"Learned to appreciate small achievements.",non-suicidal
+"Found healing in creative hobbies.",non-suicidal
+"Started learning to cook Thai.",non-suicidal
+"Learned to value self-improvement.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to paint landscapes.",non-suicidal
+"Learned to enjoy learning piano.",non-suicidal
+"Found peace through evening walks.",non-suicidal
+"Started learning to cook Japanese.",non-suicidal
+"Learned to appreciate growth journeys.",non-suicidal
+"Found healing in creative writing.",non-suicidal
+"Started learning to grow tomatoes.",non-suicidal
+"Learned to value emotional well-being.",non-suicidal
+"Found joy in helping community.",non-suicidal
+"Started learning to write stories.",non-suicidal
+"Learned to enjoy personal growth.",non-suicidal
+"Found peace through morning coffee.",non-suicidal
+"Started learning to play violin.",non-suicidal
+"Learned to appreciate small steps.",non-suicidal
+"Found healing in creative expression.",non-suicidal
+"Started learning to cook Vietnamese.",non-suicidal
+"Learned to value mental wellness.",non-suicidal
+"Found joy in helping friends.",non-suicidal
+"Started learning to paint abstract.",non-suicidal
+"Learned to enjoy learning guitar.",non-suicidal
+"Found peace through evening strolls.",non-suicidal
+"Started learning to cook Italian.",non-suicidal
+"Learned to appreciate progress.",non-suicidal
+"Found healing in creative projects.",non-suicidal
+"Started learning to grow herbs.",non-suicidal
+"Learned to value emotional health.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to write poetry.",non-suicidal
+"Learned to enjoy self-development.",non-suicidal
+"Found peace through nature hikes.",non-suicidal
+"Started learning to play piano.",non-suicidal
+"Learned to appreciate growth moments.",non-suicidal
+"Found healing in creative hobbies.",non-suicidal
+"Started learning to cook Korean.",non-suicidal
+"Learned to value self-care rituals.",non-suicidal
+"Found joy in helping neighbors.",non-suicidal
+"Started learning to paint portraits.",non-suicidal
+"Learned to enjoy learning violin.",non-suicidal
+"Found peace through evening walks.",non-suicidal
+"Started learning to cook Mediterranean.",non-suicidal
+"Learned to appreciate growth journeys.",non-suicidal
+"Found healing in creative writing.",non-suicidal
+"Started learning to grow tomatoes.",non-suicidal
+"Learned to value emotional well-being.",non-suicidal
+"Found joy in helping friends.",non-suicidal
+"Started learning to write stories.",non-suicidal
+"Learned to enjoy personal growth.",non-suicidal
+"Found peace through morning meditation.",non-suicidal
+"Started learning to play drums.",non-suicidal
+"Learned to appreciate small achievements.",non-suicidal
+"Found healing in creative projects.",non-suicidal
+"Started learning to grow herbs.",non-suicidal
+"Learned to value mental wellness.",non-suicidal
+"Found joy in helping community.",non-suicidal
+"Started learning to paint abstract.",non-suicidal
+"Learned to enjoy learning piano.",non-suicidal
+"Found peace through evening strolls.",non-suicidal
+"Started learning to cook Mexican.",non-suicidal
+"Learned to appreciate progress.",non-suicidal
+"Found healing in creative hobbies.",non-suicidal
+"Started learning to grow vegetables.",non-suicidal
+"Learned to value emotional health.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to write poetry.",non-suicidal
+"Learned to enjoy self-development.",non-suicidal
+"Found peace through nature trails.",non-suicidal
+"Started learning to play violin.",non-suicidal
+"Learned to appreciate small steps.",non-suicidal
+"Found healing in creative expression.",non-suicidal
+"Started learning to cook Japanese.",non-suicidal
+"Learned to value self-care rituals.",non-suicidal
+"Found joy in helping neighbors.",non-suicidal
+"Started learning to paint landscapes.",non-suicidal
+"Learned to enjoy learning guitar.",non-suicidal
+"Found peace through evening walks.",non-suicidal
+"Started learning to cook Korean.",non-suicidal
+"Learned to appreciate growth moments.",non-suicidal
+"Found healing in creative projects.",non-suicidal
+"Started learning to grow flowers.",non-suicidal
+"Learned to value emotional well-being.",non-suicidal
+"Found joy in helping friends.",non-suicidal
+"Started learning to write poems.",non-suicidal
+"Learned to enjoy personal growth.",non-suicidal
+"Found peace through nature hikes.",non-suicidal
+"Started learning to play drums.",non-suicidal
+"Learned to appreciate small achievements.",non-suicidal
+"Found healing in creative hobbies.",non-suicidal
+"Started learning to cook Italian.",non-suicidal
+"Learned to value mental wellness.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to paint abstract.",non-suicidal
+"Learned to enjoy learning piano.",non-suicidal
+"Found peace through evening strolls.",non-suicidal
+"Started learning to cook Vietnamese.",non-suicidal
+"Learned to appreciate progress.",non-suicidal
+"Found healing in creative writing.",non-suicidal
+"Started learning to grow tomatoes.",non-suicidal
+"Learned to value emotional health.",non-suicidal
+"Found joy in helping community.",non-suicidal
+"Started learning to write stories.",non-suicidal
+"Learned to enjoy self-development.",non-suicidal
+"Found peace through morning coffee.",non-suicidal
+"Started learning to play violin.",non-suicidal
+"Learned to appreciate small steps.",non-suicidal
+"Found healing in creative expression.",non-suicidal
+"Started learning to cook Mediterranean.",non-suicidal
+"Learned to value self-care rituals.",non-suicidal
+"Found joy in helping neighbors.",non-suicidal
+"Started learning to paint portraits.",non-suicidal
+"Learned to enjoy learning guitar.",non-suicidal
+"Found peace through evening walks.",non-suicidal
+"Started learning to cook Korean.",non-suicidal
+"Learned to appreciate growth journeys.",non-suicidal
+"Found healing in creative projects.",non-suicidal
+"Started learning to grow herbs.",non-suicidal
+"Learned to value emotional well-being.",non-suicidal
+"Found joy in helping friends.",non-suicidal
+"Started learning to write poetry.",non-suicidal
+"Learned to enjoy personal growth.",non-suicidal
+"Found peace through nature hikes.",non-suicidal
+"Started learning to play drums.",non-suicidal
+"Learned to appreciate small achievements.",non-suicidal
+"Found healing in creative hobbies.",non-suicidal
+"Started learning to cook Mexican.",non-suicidal
+"Learned to value mental wellness.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to paint abstract.",non-suicidal
+"Learned to enjoy learning piano.",non-suicidal
+"Found peace through evening strolls.",non-suicidal
+"Started learning to cook Thai.",non-suicidal
+"Learned to appreciate progress.",non-suicidal
+"Found healing in creative writing.",non-suicidal
+"Started learning to grow vegetables.",non-suicidal
+"Learned to value emotional health.",non-suicidal
+"Found joy in helping community.",non-suicidal
+"Started learning to write stories.",non-suicidal
+"Learned to enjoy self-development.",non-suicidal
+"Found peace through morning meditation.",non-suicidal
+"Started learning to play violin.",non-suicidal
+"Learned to appreciate small steps.",non-suicidal
+"Found healing in creative expression.",non-suicidal
+"Started learning to cook Indian.",non-suicidal
+"Learned to value self-care rituals.",non-suicidal
+"Found joy in helping neighbors.",non-suicidal
+"Started learning to paint landscapes.",non-suicidal
+"Learned to enjoy learning guitar.",non-suicidal
+"Found peace through evening walks.",non-suicidal
+"Started learning to cook Mexican.",non-suicidal
+"Learned to appreciate growth journeys.",non-suicidal
+"Found healing in creative projects.",non-suicidal
+"Started learning to grow basil.",non-suicidal
+"Learned to value emotional well-being.",non-suicidal
+"Found joy in helping friends.",non-suicidal
+"Started learning to write poems.",non-suicidal
+"Learned to enjoy personal growth.",non-suicidal
+"Found peace through nature trails.",non-suicidal
+"Started learning to play drums.",non-suicidal
+"Learned to appreciate small achievements.",non-suicidal
+"Found healing in creative hobbies.",non-suicidal
+"Started learning to cook Thai.",non-suicidal
+"Learned to value mental wellness.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to paint abstract.",non-suicidal
+"Learned to enjoy learning piano.",non-suicidal
+"Found peace through evening walks.",non-suicidal
+"Started learning to cook Japanese.",non-suicidal
+"Learned to appreciate progress.",non-suicidal
+"Found healing in creative writing.",non-suicidal
+"Started learning to grow tomatoes.",non-suicidal
+"Learned to value emotional health.",non-suicidal
+"Found joy in helping community.",non-suicidal
+"Started learning to write stories.",non-suicidal
+"Learned to enjoy self-development.",non-suicidal
+"Found peace through morning coffee.",non-suicidal
+"Started learning to play violin.",non-suicidal
+"Learned to appreciate small steps.",non-suicidal
+"Found healing in creative expression.",non-suicidal
+"Started learning to cook Vietnamese.",non-suicidal
+"Learned to value self-care rituals.",non-suicidal
+"Found joy in helping neighbors.",non-suicidal
+"Started learning to paint portraits.",non-suicidal
+"Learned to enjoy learning guitar.",non-suicidal
+"Found peace through evening strolls.",non-suicidal
+"Started learning to cook Italian.",non-suicidal
+"Learned to appreciate growth journeys.",non-suicidal
+"Found healing in creative projects.",non-suicidal
+"Started learning to grow herbs.",non-suicidal
+"Learned to value emotional well-being.",non-suicidal
+"Found joy in helping friends.",non-suicidal
+"Started learning to write poetry.",non-suicidal
+"Learned to enjoy personal growth.",non-suicidal
+"Found peace through nature hikes.",non-suicidal
+"Started learning to play drums.",non-suicidal
+"Learned to appreciate small achievements.",non-suicidal
+"Found healing in creative hobbies.",non-suicidal
+"Started learning to cook Korean.",non-suicidal
+"Learned to value mental wellness.",non-suicidal
+"Found joy in helping strangers.",non-suicidal
+"Started learning to paint abstract.",non-suicidal
+"Learned to enjoy learning piano.",non-suicidal
+"Found peace through evening walks.",non-suicidal
+"Started learning to cook Mediterranean.",non-suicidal
+"Learned to appreciate progress.",non-suicidal
+"Found healing in creative writing.",non-suicidal
+"Started learning to grow vegetables.",non-suicidal
+"Learned to value emotional health.",non-suicidal
+"Found joy in helping community.",non-suicidal
+"Started learning to write stories.",non-suicidal
